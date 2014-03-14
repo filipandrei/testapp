@@ -1,5 +1,3 @@
-//test2
-
 package com.firstapp;
 
 import android.app.Activity;
